@@ -1,1 +1,1 @@
-# Integrative_clustered_regression
+# Integrative_clustered_regression(ICR)
